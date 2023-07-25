@@ -1,0 +1,12 @@
+WebAPI is a Name given by n=microsoft to their framework in .Net
+	but it is an implementation of REST standards by W3C and ECMA
+
+	Microsoft used this standards, created libraties, classes, compilers, attributes etc and Named it as WebAPI 
+
+
+1. This is all about data
+2. Methods 
+	HttpGet - when you want to get something from server
+	HttpPost - When you want to add/create something on server (insert)
+	HttpPut - when you want to edit/update the data on server
+	HttpDelete - when you want to Delete something from server

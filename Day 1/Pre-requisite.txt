@@ -1,0 +1,11 @@
+Pre-requisite
+
+1. Lab - Software setup
+	Visual Studio 2019 or above (2022 for me)
+	SQL Server 2014 or above with SSMS (2016 for me)
+	PostMan 
+	Git
+
+	if you do not have them installed, use cloud lab 
+
+2. good understanding on OOPS, HTML, CSS and Javascript/jQuery

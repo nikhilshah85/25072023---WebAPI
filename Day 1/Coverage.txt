@@ -1,0 +1,22 @@
+WebAPI Developer training
+
+1. How to create, plan, develope, write, test webapi 
+	as a standard
+2. How to Consume webapi in your application (Frontend)
+	client end (fetch api)
+	server end (Httpclient)
+	
+	testing your api as a developer for output
+	Postman (by an Indian - most used tool accross world for api and network)
+	Fiddler 
+	Swagger by Swashbuckle
+
+3. Security 
+	Authentication, Authorization, CORS Policies, Tokens 
+
+4. Patterns
+	DI - Dependency Injection 
+	ORM - Object Relational Mapping (Entity Framework - SQL Server)
+	Repository pattern 
+
+	
