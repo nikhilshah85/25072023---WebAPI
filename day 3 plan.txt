@@ -1,0 +1,3 @@
+Tomorrow :
+
+API project with CRUD operations useing Entity Framework (ORM pattern) on SQL Server

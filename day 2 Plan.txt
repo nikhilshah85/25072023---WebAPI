@@ -1,0 +1,3 @@
+Tomorrow : Day 2
+
+	Create First WebAPI with InMemory Collection of Objects with CRUD operations
