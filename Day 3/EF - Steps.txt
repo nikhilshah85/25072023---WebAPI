@@ -1,0 +1,48 @@
+
+
+			Data Access Technologies / Frameworks
+
+		ADO.Net (very lenghty and lot of codeing - did not use any design pattern)
+
+		ORM - Object Relational Mapping
+
+			here all the objects from backend are mapped in frontend
+
+			database --- DbContext 
+			table    --- Class   
+			columns  --- properties
+			constraints --- data annotations
+			procedures --- functions / methods
+
+		very helpful for RAP - rapid application development
+------------------------------------------------------------------------------------------------------------
+1. Create a new database - add tables with some data 
+2. Create a new API application - like everyday (this application has no idea about EF - thus we have to add Nuget packages for the same)
+3. Install 4 nuget packages as below
+	Microsoft.EntityFrameworkCore.Tools
+	Microsoft.EntityFrameworkCore.Design
+	Microsoft.EntityFrameworkCore
+	Microsoft.EntityFrameworkCore.SqlServer
+
+4. Download POCO classes by running EF Core Command from tools - Scaffold-DbContext
+5. Create an API controller with EF 
+	it configures half dependency injection (half you have to configure)
+	since we do not know what is DI - we will not use the first half
+
+6. Instantiate a new object of DbContext - line 16
+7. Comment the constructor
+8. Build the applicaiton and run the application
+
+	
+
+
+
+
+
+
+
+
+
+
+
+

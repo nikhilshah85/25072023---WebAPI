@@ -1,0 +1,4 @@
+Tomorrow : Day 4
+
+1. API with EF and SQL Server - Revisit
+2. More functionality and Stored procedure execution
