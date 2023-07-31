@@ -1,0 +1,48 @@
+Day 4 : EF Core next level
+
+step 1 : Create a new database - EmployeeManagement
+	add below tables
+		deptInfo
+			deptNo (PK)
+			deptName
+			deptLocation
+
+				add 5 departments
+	
+		employeeInfo
+			empNo (PK)
+			empName
+			empDesignation
+			empSalary
+			empIsPermenant
+			
+				add 7 records
+
+
+step 2: Create a new api application 
+
+step 3: Add EF Core Nuget packages - There are 4 packages to be added in a sequence
+		Microsoft.EntitiyFramework.Tools
+		Microsoft.EntitiyFramework.Design
+		Microsoft.EntitiyFramework
+		Microsoft.EntitiyFramework.SQlServer
+	
+
+step 4: Create 2 controllers bases on above 2 tables
+
+step 5 : test api output for all the crud operations
+
+---------------------------------------------------------------------------------
+step 6 : add new table openings
+		positionId (PK)
+		totalPositions
+		designation
+		JobTitle
+		isPositionOpen
+		positionDept (Foreign Key)
+
+ Scaffold-DbContext "server=(localdb)\MSSQLLocalDB;database=employeeManagement;integrated security=true" -Provider Microsoft.EntityFrameworkcore.SqlServer -OutputDir Models\EF -Force
+
+
+
+		
