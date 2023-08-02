@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\24072023-MicrosftCluster-L2\\24072023-MicrosftCluster-L2\\Day 5\\ADO.Net_demo\\consumeapi_fetch\\consumeapi_fetch\\consumeapi_fetch.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI\\25072023---WebAPI\\Day 5\\consumeapi_fetch\\consumeapi_fetch\\consumeapi_fetch.csproj",
       "projectName": "consumeapi_fetch",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\24072023-MicrosftCluster-L2\\24072023-MicrosftCluster-L2\\Day 5\\ADO.Net_demo\\consumeapi_fetch\\consumeapi_fetch\\consumeapi_fetch.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI\\25072023---WebAPI\\Day 5\\consumeapi_fetch\\consumeapi_fetch\\consumeapi_fetch.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\24072023-MicrosftCluster-L2\\24072023-MicrosftCluster-L2\\Day 5\\ADO.Net_demo\\consumeapi_fetch\\consumeapi_fetch\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\25072023 - WebAPI\\25072023---WebAPI\\Day 5\\consumeapi_fetch\\consumeapi_fetch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

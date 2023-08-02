@@ -1,0 +1,5 @@
+Tomorrow :
+
+	Make calls to own api
+		1. understand and implement DI in webapi
+		2. understand and implement CORS

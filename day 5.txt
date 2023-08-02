@@ -17,3 +17,4 @@ fetch api is a web standard and is build into every modern browser -
 fetch api - returns a promise
 
 fetch api - is with try(then) catch block
+

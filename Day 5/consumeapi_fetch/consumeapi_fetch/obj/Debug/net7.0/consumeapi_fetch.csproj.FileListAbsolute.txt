@@ -29,3 +29,34 @@ C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftClus
 C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 5\ADO.Net_demo\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.pdb
 C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 5\ADO.Net_demo\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\24072023-MicrosftCluster-L2\24072023-MicrosftCluster-L2\Day 5\ADO.Net_demo\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\ref\consumeapi_fetch.dll
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\bin\Debug\net7.0\appsettings.json
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\bin\Debug\net7.0\consumeapi_fetch.staticwebassets.runtime.json
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\bin\Debug\net7.0\consumeapi_fetch.exe
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\bin\Debug\net7.0\consumeapi_fetch.deps.json
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\bin\Debug\net7.0\consumeapi_fetch.runtimeconfig.json
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\bin\Debug\net7.0\consumeapi_fetch.dll
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\bin\Debug\net7.0\consumeapi_fetch.pdb
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.RazorAssemblyInfo.cache
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.RazorAssemblyInfo.cs
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\staticwebassets\msbuild.consumeapi_fetch.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\staticwebassets\msbuild.build.consumeapi_fetch.props
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.consumeapi_fetch.props
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.consumeapi_fetch.props
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\scopedcss\bundle\consumeapi_fetch.styles.css
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\scopedcss\projectbundle\consumeapi_fetch.bundle.scp.css
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.dll
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\refint\consumeapi_fetch.dll
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.pdb
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\consumeapi_fetch.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\25072023 - WebAPI\25072023---WebAPI\Day 5\consumeapi_fetch\consumeapi_fetch\obj\Debug\net7.0\ref\consumeapi_fetch.dll

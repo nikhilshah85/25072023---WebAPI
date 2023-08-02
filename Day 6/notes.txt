@@ -1,0 +1,36 @@
+To make a call from server side / progamtically / safer calls
+
+	we will use C#
+
+	1. we need to have a POCO for the schema of data we are going to consume
+		a class with proprties (getter and setter) for the data which will come
+
+		eg. to comume this data - https://jsonplaceholder.typicode.com/posts
+		we will create a class PostData and add 4 properties, user, id, title, body
+
+	2. in the class have a variable of the data that going to come (single value, object, 		collection)
+
+	List<PostData> pList = new List<PostData>(); --data will be captured here
+
+	3. Create a method GetData (any name)
+		public List<PostData> GetPostData()
+		{
+			//here we make a call useing HttpClient and return the data to controller
+			//controller will give it to the view and display the data
+
+			HttpClient client = new HttpClient();
+				//clear the defaults
+				//add JSON as incomieng data
+			string url = "https://jsonplaceholder.typicode.com/posts"
+
+			var response = client.get(url);
+
+			//start reading the data
+			//we will need to install a nuget here - AspNet.WebAPi.Client 
+	
+			that's it 
+
+
+		}
+
+	
