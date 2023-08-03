@@ -1,0 +1,61 @@
+				DI
+
+	As a developer we create lots of object in applciation 
+	but we do not write any code to destroy those object
+		Destructor, IDisposable, atleast have finally block to relese the reference from memory ??
+
+		because we think GC will take care of it
+		Which is true. but it is not certain, when will GC do it ?
+
+
+		so it is not reliable, especially in web application 
+		finally it will on to the load on server which will affect performance
+
+--------------------
+	instead now on, it says that developer will not create any object, let runtime create the same, and runtime will also destroy the 	same	
+
+	----
+	we also have a need to share/reuse the objects in web applications (State Management)
+-------------------------------------------------------------------------------------------------------------------
+		Thus there are 3 methods we need to configure 1 of them for our object
+
+		1. Runtime will create and destroy the object when you configure the Entity as a service in 1 of the below methods
+	
+			a. AddTranscient - percall - runtime will create a new object for everycall it recieves and destroy that object when response 						     is released
+
+			b. AddScoped - persession - runtime will create a new for every session (every user) - reuse the same object for all 					interactions - destroy the object when session gets over/times out/ logged out
+
+			c. AddSingleTon - Application state - global object - object is created when server starts - same obj is used for all the 					request, users, sessions etcc.. obj gets destroyed when server stops / restarts
+
+
+			use cases of above
+
+			AddTranscient - when details/data/result is highly dynamic - eg.live cricket score, live stock market, live curreny exchange
+			AddScoped - when details/data/result are user specific - eg.login to bankaccount
+			AddSingleTon - when details/data/result are same for all users - eg. train time schedule, flight schedules, cricket score 						summary 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
