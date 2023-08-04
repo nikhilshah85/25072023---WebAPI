@@ -1,0 +1,18 @@
+Microsoft.AspNetCore.Cors
+
+---------------------
+
+builder.Services.AddCors(cors =>
+{
+    cors.AddDefaultPolicy(bydefault =>
+    {
+        bydefault.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+    });
+});
+
+
+----------
+
+app.UseCors();
+
+--------------------

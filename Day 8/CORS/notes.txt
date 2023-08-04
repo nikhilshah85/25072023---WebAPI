@@ -1,0 +1,66 @@
+CORS :
+	Cross Origin Resource Shareing
+	
+	API : http://www.cognizant.com/api/employees/list
+	      http://localhost:8989/api/employees/list
+
+		The above api is from cognizant and is running on their web server
+
+--------
+	Client
+
+		http://www.clientname.com
+		http://localhost:7584/home/displayemployees
+
+
+
+	both are running on their own domains
+	They are not allowed to get resources/data/details from other website
+
+	bydefault they are blocked by a policy - Cross Origin Origin Resource Shareing
+--------------------------------
+	So what is to be done in such a case ?
+
+	the api application will configure CORS service and a middleware in progam.cs
+
+	3 step process
+		a. add a nuget package CORS
+		b. add a service in program.cs
+		c. add a middleware in program.cs
+
+		This is all you need to allow other sites to consume the api 
+
+
+		For step 2, while configuring the service you can create policies (multiple policy as per need), where u can specify which client 
+		domain will get access to which controller and which methods (limited methods only)
+
+		eg.
+		http://www.cognizantteamA.com (java app) = will get access to 
+							GET, PUT methods only 
+						and only on empcontroller, deptcontroller, clientcontroller , (not on accounts controller)
+		http://www.icicibank.com (.net app) = will get access to
+							GET method only
+						and only on empcontroller and accounts controller
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
